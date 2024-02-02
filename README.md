@@ -1,2 +1,2 @@
 # Microservices
-Building the user-microservice and email-microservice
+Building the user-microservice and email-microservice, and implementing asynchronous communication between them using messaging with rabbitMQ, implementing sending emails with SMTP from Gmail...
