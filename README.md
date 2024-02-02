@@ -27,3 +27,7 @@ For the queue, visit [CloudAMQP](https://www.cloudamqp.com/) and complete the se
 ## Localhost Endpoint
 
 Please note that the localhost endpoint for all methods is consistent: **http://localhost:8081/products**.
+
+## Asynchronous communication flow between microservices
+
+![full-flow](https://github.com/Rian-Ismael/Microservices/assets/106334437/2da171d4-3104-4dc6-953a-c12639111a0f)
