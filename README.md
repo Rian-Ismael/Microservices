@@ -9,4 +9,4 @@ If you want to set up the project on your machine, use Postgres: [https://www.po
 
 Visualization of the methods functionality can be seen at: [https://www.postman.com/](https://www.postman.com/). **API RESTful Products**
 
-Please note that the localhost is the same for all methods: **http://localhost:8080/products**.
+Please note that the localhost is the same for all methods: **http://localhost:8081/products**.
