@@ -1,12 +1,29 @@
-# Microservices
-Building the user-microservice and email-microservice, and implementing asynchronous communication between them using messaging with rabbitMQ, implementing sending emails with SMTP from Gmail...
+# Project Setup and Tools
 
-### More details
-Specifications and samples for each method can be analyzed using the tools: Postgres and Postman.
+## Environment Preparation
 
-### Useful links for the tools
-If you want to set up the project on your machine, use Postgres: [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
+Ensure you have the following tools installed for the project:
 
-Visualization of the methods functionality can be seen at: [https://www.postman.com/](https://www.postman.com/). **API RESTful Products**
+- JDK 17
+- Maven
+- Postman
+- PgAdmin (Postgres)
+- IDE (IntelliJ, STS, Eclipse, etc.)
 
-Please note that the localhost is the same for all methods: **http://localhost:8081/products**.
+## Setting Up the Environment
+
+### 1. Postgres
+If you need to set up Postgres on your machine, follow the instructions [here](https://www.postgresql.org/download/).
+
+### 2. Queue Setup
+For the queue, visit [CloudAMQP](https://www.cloudamqp.com/) and complete the setup.
+
+## Useful Links
+
+- [Postgres Download](https://www.postgresql.org/download/)
+- [CloudAMQP (Queue)](https://www.cloudamqp.com/)
+- [Postman API Visualization](https://www.postman.com/) (Explore **API RESTful Products** functionality)
+
+## Localhost Endpoint
+
+Please note that the localhost endpoint for all methods is consistent: **http://localhost:8081/products**.
