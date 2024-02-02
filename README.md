@@ -30,4 +30,4 @@ Please note that the localhost endpoint for all methods is consistent: **http://
 
 ## Asynchronous communication flow between microservices
 
-![full-flow](https://github.com/Rian-Ismael/Microservices/assets/106334437/2da171d4-3104-4dc6-953a-c12639111a0f)
+![full-flow](https://github.com/Rian-Ismael/Microservices/assets/106334437/c098b797-1ec4-4355-8a4c-90a03f2053d0)
